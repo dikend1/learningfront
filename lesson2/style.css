@@ -1,0 +1,109 @@
+.buttonclick1{
+    background-color: rgb(200, 0, 0);
+    color: white;
+    border: none;
+    height: 36px;
+    width: 105px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 8px;
+
+}
+
+.buttonclick2{
+    background-color: white;
+    color: rgb(41,118,211);
+    border-color: rgb(41,118,211);
+    border-style: solid;
+    border-width: 1px;
+    height: 36px;
+    width: 62px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 8px;
+}
+
+.buttonclick3{
+    background-color:rgb(2, 158, 255);
+    color: white;
+    border: none;
+    border-radius: 18px;
+    height: 36px;
+    width: 74px;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.uber{
+    background-color: black;
+    color:white;
+    height: 36px;
+    width: 105px;
+    border: none;
+    margin-right: 8px;
+}
+.amazon{
+    background-color:rgb(255,216,20);
+    color: black;
+    border: none;
+    border-radius: 16px;
+    height: 36px;
+    width: 150px;
+}
+
+.GitHub{
+    background-color: rgb(46, 164, 79);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-left: 8px;
+    height: 36px;
+    width: 80px;
+    font-weight: bold;
+
+}
+
+.bootstrap1{
+    background-color: rgb(121,82, 179);
+    color: white;
+    border: none;
+    height: 36px;
+    width: 100px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-right: 8px;
+
+
+}
+.bootstrap2{
+    background-color: rgb(255,255,255);
+    color: rgb(108,117,125);
+    height: 36px;
+    border-color:rgb(108,117,125);
+    border-width: 1px;
+    width: 100px;
+    border-radius: 6px;
+    font-weight: bold;
+
+}
+.Linkedin1{
+    background-color: rgb(10,102,194);
+    color: white;
+    height: 36px;
+    width: 200px;
+    border-radius: 50px;
+    border: none;
+    font-weight: bold;
+    margin-right: 8px;
+}
+.Linkedin2{
+    background-color: white;
+    color: rgb(10,102,194);
+    border-radius: 50px;
+    height: 36px;
+    width: 60px;
+    border-width: 1px;
+    font-weight: bold;
+    border-color: rgb(10,102,194);
+}
