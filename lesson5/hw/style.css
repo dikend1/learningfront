@@ -1,0 +1,166 @@
+.tahoma{
+    font-family: Tahoma;
+    font-weight: bold;
+    font-size: 20px;
+}
+.verdana1{
+    font-family: Verdana;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.verdana2{
+    font-family: Verdana;
+    color: rgb(96, 96, 96);
+    margin-top:10px;
+    margin-bottom: 20px;
+
+}
+
+.verdana3{
+    font-family: Verdana;
+    width: 290px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+.submit{
+    background-color: green;
+    color: white;
+    border-width: 0;
+    border-radius: 5px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.box1{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 0;
+}
+.box2{
+    font-family: Arial;
+    color:red;
+    margin-top: 10px;
+    font-style: italic;
+    margin-bottom: 50px;
+}
+
+.shop1{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+.shop2{
+    font-family: Arial;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.shop3{
+    font-family: Arial;
+    text-align: center;
+    color: rgb(12, 154, 215);
+    
+}
+
+.mac1{
+    font-family: Arial;
+    color:rgb(240, 161, 4);
+    text-align: center;
+
+}
+.mac2{
+    font-family: Arial;
+    font-weight: bold;
+    text-align: center;
+    margin-top: -5px;
+}
+
+.mac3{
+    margin-top: -15px;
+    font-family: Arial;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 0;
+}
+
+.mac4{
+    margin-top: 5px;
+    font-family: Arial;
+    text-align: center;
+}
+
+.mac5{
+    font-family: Arial;
+    background-color: rgb(17, 141, 229);
+    color: white;
+    border-radius: 40px;
+    border: none;
+    padding: 10px 20px 10px 20px;
+    margin: 0 auto;
+
+}
+
+.macbook{
+    text-align: center;
+    align-content: center;
+}
+
+.tenge{
+    font-family: Arial;
+    font-size: 50px;
+    display: inline;
+    margin-right: 5px;
+}
+.tenge2{
+    font-family: Arial;
+    color: gray;
+}
+
+.prosent{
+    font-family: Arial;
+
+    color: green;
+}
+.dollar{
+    font-family: Arial;
+    display: inline;
+    color: gray;
+
+}
+.dollar2{
+    font-family: Arial;
+    color: red;
+}
+
+.d1{
+    font-family: Arial;
+    display: inline;
+    margin-right: 5px;
+    font-weight: bold;
+
+}
+.d2{
+    font-family: Arial;
+    color: gray;
+}
+.d3{
+    font-family: Arial;
+
+}
+
+.d4{
+    font-family: Arial;
+
+}
+.d5{
+    font-family: Arial;
+    color: aqua;
+}
