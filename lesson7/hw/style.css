@@ -1,0 +1,70 @@
+.search{
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    border: 0.5px solid;
+}
+.search2{
+    width: 200px;
+    height: 30px;
+    border-radius:15px;
+    border: none;
+    box-shadow: 2px 5px 7px rgba(0, 0, 0, 0.2);
+    margin-top: 10px;
+    margin-bottom: 20px;
+    
+}
+.email{
+    margin-top: 20px;
+    width: 300px;
+    height: 40px;
+    border: 1px solid;
+    font-size: 20px;
+}
+.submit{
+    background-color: rgb(6, 122, 255);
+    color: white;
+    border-radius: 20px;
+    border: none;
+    padding: 15px 80px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.img{
+    width: 100px;
+    height: 100px;
+    border-radius: 200px;
+    object-fit: cover;
+    object-position: left;
+    vertical-align: middle;
+    margin-right: 2px;
+    
+}
+.text1{
+    width: 300px;
+    height: 20px;
+    font-size: 20px;
+    object-fit: cover;
+    object-position: left;
+    margin-right: 2px;
+
+    
+}
+.submit2{
+    padding: 10px 20px 10px 20px;
+    border-radius: 50px;
+    border: none;
+    background-color: rgb(6, 122, 255);
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    object-fit: cover;
+    object-position: left;
+    cursor: pointer;
+
+}
+
+.box1{
+
+}

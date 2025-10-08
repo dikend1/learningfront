@@ -1,0 +1,19 @@
+.animals1{
+    width: 200px;
+    border-radius: 10px;
+}
+
+.animals2{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position:center;
+}
+
+.animals3{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 100px;
+}
